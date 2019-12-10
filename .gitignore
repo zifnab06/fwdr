@@ -1,0 +1,8 @@
+.idea
+*.pyc
+bin/
+lib/
+include/
+.Python
+pip-selfcheck.json
+.python-version
